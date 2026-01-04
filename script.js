@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const emailElement = document.getElementById('emailText');
     if (emailElement) {
         // Simple obfuscation to prevent email harvesting
-        const email = 'dastagiri.jillela' + '@' + 'example.com';
+        const email = 'gurudastagiri3' + '@' + 'gmail.com';
         emailElement.textContent = email;
     }
     
