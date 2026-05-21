@@ -7,7 +7,7 @@ HTML5 – For structure and content.
 CSS3 – For styling and responsive design.
 JavaScript – For interactivity (e.g., smooth scrolling, form handling).
 
-Features
+Features.
 
 Responsive design (works on desktop and mobile).
 Sections: Home, About, Skills, Projects.
