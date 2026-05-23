@@ -39,9 +39,16 @@ GitHub Pages: Enable in repository settings > Pages > Select main branch.
 Netlify/Vercel: Connect your GitHub repo and deploy.
 
 Contributing
+
+
 Feel free to fork this repo and submit pull requests for improvements!
+
+
 License
+
+
 This project is open-source and available under the MIT License.
 
 Built with ❤️ by Dastagiri
+
 Feel free to connect or reach out via the contact form on the live site!
