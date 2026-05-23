@@ -1,6 +1,8 @@
 Portfolio-KodNest-Assignment
 
 A personal portfolio website built as an assignment for KodNest. This project showcases my skills, projects, and provides a way for visitors (e.g., recruiters) to contact me.
+
+
 Technologies Used
 
 HTML5 – For structure and content.
