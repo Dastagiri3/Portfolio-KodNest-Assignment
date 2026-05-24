@@ -21,7 +21,7 @@ Integrate Supabase (PostgreSQL-based backend) to store contact form submissions 
 The supabase/migrations/ directory is prepared for schema migrations (e.g., creating a contacts table).
 
 Add real-time notifications or an admin view to check submitted contacts.
-Deploy to a live hosting platform.
+Deploy to a live hosting platform (e.g: Netify, Vercel, GitHub Pages).
 
 Setup and Running Locally
 
