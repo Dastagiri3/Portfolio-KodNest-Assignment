@@ -18,9 +18,11 @@ Contact form to allow visitors to send messages directly.
 Future Enhancements
 
 Integrate Supabase (PostgreSQL-based backend) to store contact form submissions in a database.
+
 The supabase/migrations/ directory is prepared for schema migrations (e.g., creating a contacts table).
 
 Add real-time notifications or an admin view to check submitted contacts.
+
 Deploy to a live hosting platform (e.g: Netify, Vercel, GitHub Pages).
 
 Setup and Running Locally
@@ -37,9 +39,11 @@ Simply double-click the file or use a live server extension in VS Code.
 No additional dependencies or servers are required as it's a static site.
 
 Deployment
+
 This project can be easily deployed to static hosting services:
 
 GitHub Pages: Enable in repository settings > Pages > Select main branch.
+
 Netlify/Vercel: Connect your GitHub repo and deploy.
 
 Contributing
