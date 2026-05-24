@@ -26,12 +26,16 @@ Deploy to a live hosting platform (e.g: Netify, Vercel, GitHub Pages).
 Setup and Running Locally
 
 Clone the repository:Bashgit clone https://github.com/Dastagiri3/Portfolio-KodNest-Assignment.git
+
 Navigate to the project folder:Bashcd Portfolio-KodNest-Assignment
+
 Open index.html in your browser:
+
 Simply double-click the file or use a live server extension in VS Code.
 
 
 No additional dependencies or servers are required as it's a static site.
+
 Deployment
 This project can be easily deployed to static hosting services:
 
