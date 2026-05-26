@@ -6,7 +6,9 @@ A personal portfolio website built as an assignment for KodNest. This project sh
 Technologies Used
 
 HTML5 – For structure and content.
+
 CSS3 – For styling and responsive design.
+
 JavaScript – For interactivity (e.g., smooth scrolling, form handling).
 
 Features
