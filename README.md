@@ -14,7 +14,9 @@ JavaScript – For interactivity (e.g., smooth scrolling, form handling).
 Features
 
 Responsive design (works on desktop and mobile).
+
 Sections: Home, About, Skills, Projects.
+
 Contact form to allow visitors to send messages directly.
 
 Future Enhancements
